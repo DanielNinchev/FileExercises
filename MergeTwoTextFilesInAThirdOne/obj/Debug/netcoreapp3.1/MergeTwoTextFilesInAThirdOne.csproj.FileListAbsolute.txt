@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\FilesAndStreams\MergeTwoTextFilesInAThirdOne\bin\Debug\netcoreapp3.1\MergeTwoTextFilesInAThirdOne.exe
+C:\Users\User\source\repos\FilesAndStreams\MergeTwoTextFilesInAThirdOne\bin\Debug\netcoreapp3.1\MergeTwoTextFilesInAThirdOne.deps.json
+C:\Users\User\source\repos\FilesAndStreams\MergeTwoTextFilesInAThirdOne\bin\Debug\netcoreapp3.1\MergeTwoTextFilesInAThirdOne.runtimeconfig.json
+C:\Users\User\source\repos\FilesAndStreams\MergeTwoTextFilesInAThirdOne\bin\Debug\netcoreapp3.1\MergeTwoTextFilesInAThirdOne.runtimeconfig.dev.json
+C:\Users\User\source\repos\FilesAndStreams\MergeTwoTextFilesInAThirdOne\bin\Debug\netcoreapp3.1\MergeTwoTextFilesInAThirdOne.dll
+C:\Users\User\source\repos\FilesAndStreams\MergeTwoTextFilesInAThirdOne\bin\Debug\netcoreapp3.1\MergeTwoTextFilesInAThirdOne.pdb
+C:\Users\User\source\repos\FilesAndStreams\MergeTwoTextFilesInAThirdOne\obj\Debug\netcoreapp3.1\MergeTwoTextFilesInAThirdOne.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FilesAndStreams\MergeTwoTextFilesInAThirdOne\obj\Debug\netcoreapp3.1\MergeTwoTextFilesInAThirdOne.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FilesAndStreams\MergeTwoTextFilesInAThirdOne\obj\Debug\netcoreapp3.1\MergeTwoTextFilesInAThirdOne.AssemblyInfo.cs
+C:\Users\User\source\repos\FilesAndStreams\MergeTwoTextFilesInAThirdOne\obj\Debug\netcoreapp3.1\MergeTwoTextFilesInAThirdOne.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FilesAndStreams\MergeTwoTextFilesInAThirdOne\obj\Debug\netcoreapp3.1\MergeTwoTextFilesInAThirdOne.dll
+C:\Users\User\source\repos\FilesAndStreams\MergeTwoTextFilesInAThirdOne\obj\Debug\netcoreapp3.1\MergeTwoTextFilesInAThirdOne.pdb
+C:\Users\User\source\repos\FilesAndStreams\MergeTwoTextFilesInAThirdOne\obj\Debug\netcoreapp3.1\MergeTwoTextFilesInAThirdOne.genruntimeconfig.cache

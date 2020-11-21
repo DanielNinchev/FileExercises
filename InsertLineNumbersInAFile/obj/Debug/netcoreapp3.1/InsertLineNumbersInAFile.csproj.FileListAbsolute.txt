@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\FilesAndStreams\InsertLineNumbersInAFile\bin\Debug\netcoreapp3.1\InsertLineNumbersInAFile.exe
+C:\Users\User\source\repos\FilesAndStreams\InsertLineNumbersInAFile\bin\Debug\netcoreapp3.1\InsertLineNumbersInAFile.deps.json
+C:\Users\User\source\repos\FilesAndStreams\InsertLineNumbersInAFile\bin\Debug\netcoreapp3.1\InsertLineNumbersInAFile.runtimeconfig.json
+C:\Users\User\source\repos\FilesAndStreams\InsertLineNumbersInAFile\bin\Debug\netcoreapp3.1\InsertLineNumbersInAFile.runtimeconfig.dev.json
+C:\Users\User\source\repos\FilesAndStreams\InsertLineNumbersInAFile\bin\Debug\netcoreapp3.1\InsertLineNumbersInAFile.dll
+C:\Users\User\source\repos\FilesAndStreams\InsertLineNumbersInAFile\bin\Debug\netcoreapp3.1\InsertLineNumbersInAFile.pdb
+C:\Users\User\source\repos\FilesAndStreams\InsertLineNumbersInAFile\obj\Debug\netcoreapp3.1\InsertLineNumbersInAFile.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FilesAndStreams\InsertLineNumbersInAFile\obj\Debug\netcoreapp3.1\InsertLineNumbersInAFile.AssemblyInfo.cs
+C:\Users\User\source\repos\FilesAndStreams\InsertLineNumbersInAFile\obj\Debug\netcoreapp3.1\InsertLineNumbersInAFile.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FilesAndStreams\InsertLineNumbersInAFile\obj\Debug\netcoreapp3.1\InsertLineNumbersInAFile.dll
+C:\Users\User\source\repos\FilesAndStreams\InsertLineNumbersInAFile\obj\Debug\netcoreapp3.1\InsertLineNumbersInAFile.pdb
+C:\Users\User\source\repos\FilesAndStreams\InsertLineNumbersInAFile\obj\Debug\netcoreapp3.1\InsertLineNumbersInAFile.genruntimeconfig.cache
+C:\Users\User\source\repos\FilesAndStreams\InsertLineNumbersInAFile\obj\Debug\netcoreapp3.1\InsertLineNumbersInAFile.csprojAssemblyReference.cache

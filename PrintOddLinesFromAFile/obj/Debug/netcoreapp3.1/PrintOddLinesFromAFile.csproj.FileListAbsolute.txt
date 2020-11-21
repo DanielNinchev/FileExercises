@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\FilesAndStreams\PrintOddLinesFromAFile\bin\Debug\netcoreapp3.1\PrintOddLinesFromAFile.exe
+C:\Users\User\source\repos\FilesAndStreams\PrintOddLinesFromAFile\bin\Debug\netcoreapp3.1\PrintOddLinesFromAFile.deps.json
+C:\Users\User\source\repos\FilesAndStreams\PrintOddLinesFromAFile\bin\Debug\netcoreapp3.1\PrintOddLinesFromAFile.runtimeconfig.json
+C:\Users\User\source\repos\FilesAndStreams\PrintOddLinesFromAFile\bin\Debug\netcoreapp3.1\PrintOddLinesFromAFile.runtimeconfig.dev.json
+C:\Users\User\source\repos\FilesAndStreams\PrintOddLinesFromAFile\bin\Debug\netcoreapp3.1\PrintOddLinesFromAFile.dll
+C:\Users\User\source\repos\FilesAndStreams\PrintOddLinesFromAFile\bin\Debug\netcoreapp3.1\PrintOddLinesFromAFile.pdb
+C:\Users\User\source\repos\FilesAndStreams\PrintOddLinesFromAFile\obj\Debug\netcoreapp3.1\PrintOddLinesFromAFile.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FilesAndStreams\PrintOddLinesFromAFile\obj\Debug\netcoreapp3.1\PrintOddLinesFromAFile.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FilesAndStreams\PrintOddLinesFromAFile\obj\Debug\netcoreapp3.1\PrintOddLinesFromAFile.AssemblyInfo.cs
+C:\Users\User\source\repos\FilesAndStreams\PrintOddLinesFromAFile\obj\Debug\netcoreapp3.1\PrintOddLinesFromAFile.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FilesAndStreams\PrintOddLinesFromAFile\obj\Debug\netcoreapp3.1\PrintOddLinesFromAFile.dll
+C:\Users\User\source\repos\FilesAndStreams\PrintOddLinesFromAFile\obj\Debug\netcoreapp3.1\PrintOddLinesFromAFile.pdb
+C:\Users\User\source\repos\FilesAndStreams\PrintOddLinesFromAFile\obj\Debug\netcoreapp3.1\PrintOddLinesFromAFile.genruntimeconfig.cache
